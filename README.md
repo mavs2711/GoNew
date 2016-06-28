@@ -1,0 +1,2 @@
+# GoNew
+newbie @ go
